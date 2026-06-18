@@ -47,7 +47,7 @@ Fame Blog is a front-end web project built to simulate a basic blogging platform
 
 - **FameDev**
 - Portfolio: https://famedev.netlify.app/
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/Famejr-122
 
 ---
 
